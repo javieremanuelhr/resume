@@ -147,7 +147,7 @@ export default function Body() {
               <div class='sm:flex-1 px-8 py-6'>
 
                 <p class='font-montserrat text-xl'> Smart Home Automation System </p>
-                <p class='font-montserrat text-lg'> 2021 </p>
+                <p class='font-montserrat text-lg'> 2022 </p>
                 <p class='font-montserrat text-lg indent-4 text-justify'> Designed and implemented a smart home automation system using Arduino and Raspberry Pi. The system allows users to control lights, appliances, and security cameras remotely using a mobile app. </p>
 
               </div>
