@@ -10,6 +10,8 @@ import { FaGraduationCap } from "react-icons/fa";
 import { HiLightningBolt } from "react-icons/hi";
 import { MdOutlineWork } from "react-icons/md";
 import { FaTools } from "react-icons/fa";
+import { IoLanguageSharp } from "react-icons/io5";
+import Flag from 'react-world-flags'
 
 export default function Body() {
     return (
@@ -84,6 +86,23 @@ export default function Body() {
 
 
         </div>
+
+        <div class='sm:px-14 bg-[#151515] text-white'>
+            
+            <p class='flex flex-row items-center px-8 text-2xl font-semibold'> <IoLanguageSharp /> <div class='pl-2'> Languages </div> </p>
+  
+            <div class='flex flex-col sm:flex-row'>
+                
+                <div class='sm:flex-1 px-8 py-6'>
+                  <p class='flex flex-row font-montserrat text-lg'> <Flag code='US' width='24'></Flag> <div class='pl-2'>English C1</div> </p>
+                  <p class='flex flex-row font-montserrat text-lg'> <Flag code='MEX' width='24'></Flag> <div class='pl-2'> Spanish (Native) </div> (Native)</p>
+                  <p class='flex flex-row font-montserrat text-lg'> <Flag code='FRA' width='24'></Flag> <div class='pl-2'>French A2</div></p>
+                  <p class='flex flex-row font-montserrat text-lg'> <Flag code='JPN' width='24'></Flag> <div class='pl-2'>Japanese N4</div></p>
+                </div>
+  
+            </div>
+        </div>
+
         <div class='sm:px-14 bg-[#151515] text-white'>
 
           <div>
@@ -122,9 +141,8 @@ export default function Body() {
 
           <div class='sm:px-14 bg-[#151515] text-white'>
             <p class='flex flex-row items-center px-8 text-2xl font-semibold'> <FaTools /> <div class='pl-2'> Projects </div> </p>
-            <p class='px-8 pt-6 font-montserrat text-xl'> Here are some of the projects I have worked on: </p>
 
-            <div class='flex flex-col sm:flex-row'>
+            <div class='flex flex-col'>
 
               <div class='sm:flex-1 px-8 py-6'>
 
