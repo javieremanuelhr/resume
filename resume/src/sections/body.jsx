@@ -33,7 +33,7 @@ export default function Body() {
               <div class='sm:flex-1 px-8 py-6'>
                 <p class='font-montserrat text-xl'> BE Industrial Electronics </p>
                 <p class='font-montserrat text-lg'> TecNM Campus Madero </p>
-                <p class='font-montserrat text-lg'> 2018 - 2021 </p>
+                <p class='font-montserrat text-lg'> 2018 - 2023 </p>
               </div>
 
               <div class='sm:flex-1 px-8 py-6'>
