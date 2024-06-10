@@ -12,6 +12,7 @@ import { SiAutocad } from "react-icons/si";
 import { FaDatabase } from "react-icons/fa";
 import { RiFileExcel2Line } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
+import { MdFactory } from "react-icons/md";
 import Flag from 'react-world-flags'
 
 export default function Skills() {
@@ -83,9 +84,9 @@ export default function Skills() {
                 <div class='pl-2 pt-2 font-montserrat text-lg'>
 
                   <ul>
-                    <li class='flex flex-row items-center'> <FcElectricity /> <div class='pl-2'> PLC Programming </div> </li>
+                    <li class='flex flex-row items-center'> <MdFactory /> <div class='pl-2'> PLC Programming </div> </li>
                     <li class='flex flex-row items-center'> <CgScreen /> <div class='pl-2'> SCADA Systems </div> </li>
-                    <li class='flex flex-row items-center'> <FcElectronics /> <div class='pl-2'> Microcontrollers </div> </li>
+                    <li class='flex flex-row items-center'> <LuBinary /> <div class='pl-2'> Microcontrollers </div> </li>
                   </ul>
 
                 </div>
