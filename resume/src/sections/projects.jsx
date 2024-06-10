@@ -21,13 +21,7 @@ export default function Projects() {
 
             </div>
 
-            <div class='sm:flex-1 px-8 py-6'>
 
-                <p class='font-montserrat text-xl'> Scada </p>
-                <p class='font-montserrat text-lg'> 2020 </p>
-                <p class='font-montserrat text-lg indent-4 text-justify'> Developed an industrial control system for a manufacturing plant using PLCs and SCADA software. The system automated the production process, improved efficiency, and reduced downtime. </p>
-
-            </div>
 
           </div>
 
