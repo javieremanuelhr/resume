@@ -20,7 +20,7 @@ export default function Skills() {
       <div>
         <div class='sm:pl-14 bg-[#151515] text-white'>
 
-            <p class='flex flex-row items-center pl-8 text-2xl font-semibold justify-center sm:justify-start'> <FaGraduationCap /> <div class='pl-2'> Education </div> </p>
+            <p class='flex flex-row items-center px-8 text-2xl font-semibold justify-center sm:justify-start'> <FaGraduationCap /> <div class='pl-2'> Education </div> </p>
 
             <div class='flex flex-col'>
 
@@ -42,7 +42,7 @@ export default function Skills() {
         
         <div class='sm:pl-14 bg-[#151515] text-white'>
 
-          <p class='flex flex-row items-center pl-8 text-2xl font-semibold justify-center sm:justify-start'> <HiLightningBolt /> <div class='pl-2'> Skills </div> </p>
+          <p class='flex flex-row items-center px-8 text-2xl font-semibold justify-center sm:justify-start'> <HiLightningBolt /> <div class='pl-2'> Skills </div> </p>
 
           <div class='flex flex-col'>
               

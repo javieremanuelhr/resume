@@ -10,7 +10,7 @@ export default function Body() {
 
             <p class='px-8 pt-12 font-montserrat text-6xl font-semibold text-center sm:text-left'> Javier Emanuel </p>
             <p class='px-8 pt-4 sm:pt-2 font-montserrat text-2xl text-center sm:text-left'> Industrial Electronics & Software Engineer </p>
-            <p class='px-8 pt-6 font-montserrat text-xl indent-4 text-justify'> I am a software engineer with a background in industrial electronics. I have experience in the design, installation, and maintenance of industrial control systems. I am passionate about technology and how it can be used to improve the quality of life of people. </p>
+            <p class='px-8 pt-6 font-montserrat text-xl indent-4 text-justify'> I'm a software engineer with a background in industrial electronics. I have experience in the design, installation, and maintenance of industrial control systems. I am passionate about technology and how it can be used to improve the quality of life of people. </p>
 
           </div>
  

@@ -6,9 +6,9 @@ export default function Header() {
 
         <img src={reactLogo} class=' flex-none App-logo hover:animate-spin' alt='logo' />
 
-        <h1 class='flex-none text-white text-2xl pl-2'> javier.emanuel </h1>
+        <h1 class='flex-none text-white text-2xl pl-2'> javieremanuelhr </h1>
 
-        <nav class='flex-grow text-white hidden sm:block'>  
+        <nav class='flex-grow text-white hidden'>  
             <ul class='flex flex-row justify-end'>
                 <li class='p-2 hover:bg-sky-600'>About</li>
                 <li class='p-2 hover:bg-sky-600'>Projects</li>
