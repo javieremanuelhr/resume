@@ -5,7 +5,7 @@ import Body from './sections/body.jsx'
 function App() {
 
   return (
-    <div class='h-screen'>
+    <div class='bg-[#151515]'>
       <Header />
       <Body />
     </div>

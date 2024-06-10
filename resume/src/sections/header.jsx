@@ -1,9 +1,8 @@
 import reactLogo from '../assets/react.svg'
-import { Button } from "@/components/ui/button"
 
 export default function Header() {
   return (
-    <div class='fixed flex flex-row p-2 w-full bg-gradient-to-r from-purple-500 to-pink-500 font-montserrat font-semibold'>
+    <div class='fixed flex flex-row p-2 w-full bg-gradient-to-r from-purple-500 to-pink-500 font-montserrat font-semibold items-center'>
 
         <img src={reactLogo} class=' flex-none App-logo hover:animate-spin' alt='logo' />
 
